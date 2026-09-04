@@ -1,1 +1,16 @@
+Week 6A: Analyzing Data / Intel
+Project: Sustainability Impact Analysis for Intel
 
+INTRODUCTION
+
+As you learned listening in on the strategy meeting with Dr. Alvarez and Intel’s Sustainability Team, Intel is committed to reducing its carbon footprint and improving the sustainability of its devices – not just during 
+anufacturing, but throughout the entire lifecycle. A key part of this effort is their repurposing programs, which play a central role in achieving these sustainability goals. Repurposing and recycling programs aim to reduce 
+e-waste, energy consumption, and CO2 emissions by extending the life of existing devices, and thus reducing the need for new device manufacturing. Like Michael Campbell said: the average household in the US has anywhere 
+from 3-5 PCs devices, tablets, notebooks, desktops that are perfectly functional, but not being used!
+
+One challenge Intel faces is determining which devices in its repurposing program should be prioritized for the maximum environmental benefit. That’s where data analysis comes in! To help with this, Intel gathered data on 
+each device repurposed or recycled in 2024. 
+
+YOUR TASK
+
+Your task is to evaluate the effectiveness of Intel's current repurposing strategy and provide a  data-driven recommendation to help guide the program's direction and optimize sustainability efforts.
