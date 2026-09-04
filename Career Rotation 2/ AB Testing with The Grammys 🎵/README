@@ -1,1 +1,25 @@
+Week 8: A/B Testing / The Grammys 🎵
+Project: A/B Testing for The Grammys 🎵
 
+It’s time to turn A/B testing into action for The Recording Academy! In this Project, you’ll analyze Instagram ad results from The Recording Academy to help boost GRAMMY U membership. By analyzing performance data from two different call-to-action buttons, you’ll uncover what really drives student sign-ups to help shape how the Academy connects with the next generation of music creators.
+
+INTRODUCTION
+
+During the meetings you joined, Ray Stark and his team emphasized the need for experimentation to drive engagement beyond just the Grammy Awards show. The Academy is not just about one night. It’s a 365-day brand, and 
+increasing participation in other initiatives – like advocacy, networking, and education – is critical to its long-term impact. GRAMMY U is a big part of this strategy. It’s not just an event series – it’s a pipeline 
+for the next generation of music industry professionals. By increasing membership, The Recording Academy expands its influence beyond awards night, deepens engagement with young music creators, and strengthens its role 
+as an advocate for the music industry year-round. One key challenge for The Academy is converting social media engagement into GRAMMY U membership. The team believes there's an opportunity to optimize the 
+Call-to-Action (CTA) button text to drive more memberships. To test this, they  launched two versions of the same Instagram ad featuring Common and Pete Rock:
+
+Instagram Ad Recording Academy ControlIG ad from the Recording Academy with college students. 
+ 
+The only difference in the two ads is the text on the CTA button. 
+The control (left) reads "Learn More"
+The test (right) reads “Become a GRAMMY U Member”
+ 
+
+YOUR TASK
+
+Your task is to evaluate the results, determine statistical significance, and recommend which CTA button the team should use to maximize GRAMMY U memberships.
+
+ 
